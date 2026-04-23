@@ -4,3 +4,4 @@ const user = {
 
 
 console.log(user.name)
+console.log("test2")
