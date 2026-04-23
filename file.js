@@ -5,3 +5,4 @@ const user = {
 
 console.log(user.name)
 console.log("test2")
+console.log("test3")
